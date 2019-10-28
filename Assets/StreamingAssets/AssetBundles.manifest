@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2500611180
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: blendscene
+      Dependencies: {}
+    Info_1:
+      Name: testscene
+      Dependencies: {}
